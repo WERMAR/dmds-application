@@ -143,6 +143,4 @@ public class JDBCConnector {
             throw new RuntimeException(e);
         }
     }
-
-    // Test Commit
 }
