@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!-- http://www.freeformatter.com/xpath-tester.html -->
+<collection>
+  <cd year="1965">
+    <artist>The Beatles</artist>
+    <title>Help!</title>
+    <songlist>
+      <song>Help!</song>
+      <song>The Night Before</song>
+      <song>You've Got To Hide Your Love Away</song>
+      <song>I Need You</song>
+      <song>Another Girl</song>
+      <song>You're Gonna Lose That Girl</song>
+      <song>Ticket to Ride</song>
+      <song>Act Naturally</song>
+      <song>It's Only Love</song>
+      <song>You Like Me Too Much</song>
+      <song>Tell Me What You See</song>
+      <song>I've Just Seen a Face</song>
+      <song>Yesterday</song>
+      <song>Dizzy Miss Lizzy</song>
+    </songlist>
+  </cd>
+  <cd year="1994">
+    <artist>The Rolling Stones</artist>
+    <title>Voodoo Lounge</title>
+    <songlist>
+      <song>Love is Strong</song>
+      <song>You Got MeRocking</song>
+      <song>Sparks Will Fly</song>
+      <song>The Worst</song>
+      <song>New Faces</song>
+      <song>Moon Is Up</song>
+      <song>Out Of Tears</song>
+      <song>I Go Wild</song>
+      <song>Brand New Car</song>
+      <song>Sweethearts Together</song>
+      <song>Suck On The Jugular</song>
+      <song>Blinded By Rainbows</song>
+      <song>Baby Break It Down</song>
+      <song>Thru And Thru</song>
+      <song>Mean Disposition</song>
+    </songlist>
+  </cd>
+  <cd>
+    <artist>U2</artist>
+    <title>Joshua Tree</title>
+    <songlist>
+      <song>Where The Streets Have No Name</song>
+      <song>I Still Haven't Found What I'm Looking For</song>
+      <song>With Or Whitout You</song>
+      <song>Bullet The Blue Sky</song>
+      <song>Running To Stand Still</song>
+      <song>Red Hill Mining Town</song>
+      <song>In God's Country</song>
+      <song>Trip Through Your Wires</song>
+      <song>One Tree Hill</song>
+      <song>Exit</song>
+      <song>Mothers Of The Disappeared</song>
+    </songlist>
+  </cd>
+  <cd year="1973">
+    <artist>Pink Floyd</artist>
+    <title>Dark Side Of The Moon</title>
+    <songlist>
+      <song>Speak To Me / Breathe</song>
+      <song>On The Run</song>
+      <song>Time</song>
+      <song>The Great Gig In The Sky</song>
+      <song>Money</song>
+      <song>Us and Them</song>
+      <song>Any Colour You Like</song>
+      <song>Brain Damage</song>
+      <song>Eclipse</song>
+    </songlist>
+  </cd>
+  <cd year="1967">
+    <artist>The Beatles</artist>
+    <title>Sgt. Pepper's Lonely Hearts Club Band</title>
+    <songlist>
+      <song>Sgt. Pepper's Lonely Hearts Club Band</song>
+      <song>With A Little Help From My Friends</song>
+      <song>Lucy In The Sky With Diamonds</song>
+      <song>Getting Better</song>
+      <song>Fixing A Hole</song>
+      <song>She's Leaving Home</song>
+      <song>Being For The Benefit Of Mr. Kite!</song>
+      <song>Within You Without You</song>
+      <song>When I'm Sixty-Four</song>
+      <song>Lovely Rita</song>
+      <song>Good Morning Good Morning</song>
+      <song>Sgt. Pepper's Lonely Hearts Club Band (Reprise)</song>
+      <song>A Day In The Life</song>
+    </songlist>
+  </cd>
+  <cd>
+    <artist>Bruce Springsteen</artist>
+    <title>Born To Run</title>
+    <songlist>
+      <song>Thunder Road</song>
+      <song>Tenth Avenue Freeze Out</song>
+      <song>Night</song>
+      <song>Backstreets</song>
+      <song>Born To Run</song>
+      <song>She's The One</song>
+      <song>Meeting Across The River</song>
+      <song>Jungleland</song>
+    </songlist>
+  </cd>
+</collection>
