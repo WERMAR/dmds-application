@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="problemfall.xsd">
+    <presentation>
+        <title>XML &amp; Friends for Dummies</title>
+        <author>Max Maerchenerzaehler</author>
+        <slide>
+            <ilist>
+                <item>XML is not a markup language</item>
+                <item>XML instances can be</item>
+                <item>XML instances can be</item>
+                <item>XML instances can be</item>
+                <item>XML instances can be</item>
+                <emph>well formed or even
+                    <emph>validating</emph>
+                </emph>
+                <emph>well formed or even
+                    <emph>validating</emph>
+                </emph>
+                <emph>well formed or even
+                    <emph>validating</emph>
+                </emph>
+                <emph>well formed or even
+                    <emph>validating</emph>
+                </emph>
+            </ilist>
+        </slide>
+    </presentation>
+</root>

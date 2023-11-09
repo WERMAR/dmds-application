@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="root" type="presentation"/>
+
+    <xs:complexType name="presentation">
+        <xs:sequence>
+            <xs:element name="presentation" maxOccurs="1">
+                <xs:complexType>
+                    <xs:sequence maxOccurs="1">
+                        <xs:element name="title" type="xs:string"/>
+                        <xs:element name="author" type="xs:string"/>
+                        <xs:element name="slide" maxOccurs="unbounded" type="slide"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="slide">
+        <xs:sequence>
+            <xs:element name="ilist" maxOccurs="1" type="ilist"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="ilist">
+        <xs:sequence>
+            <xs:element name="item" maxOccurs="unbounded" type="xs:string"/>
+            <xs:element name="emph" type="EmphType" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="EmphType" mixed="true">
+        <xs:sequence>
+            <xs:any minOccurs="0" maxOccurs="unbounded" processContents="skip"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
