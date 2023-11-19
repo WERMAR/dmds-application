@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<poem>
+  <title>Der König Erl</title>
+  <author>Heinz Erhardt</author>
+  <verse>
+    <line>Wer reitet so spät durch Wind und Nacht?</line>
+    <line>Es ist der Vater. Es ist gleich acht.</line>
+    <line>Im Arm den Knaben er wohl hält,</line>
+    <line>er hält ihn warm, denn er ist erkält'.</line>
+  </verse>
+  <verse>
+    <line>Halb drei, Halb fünf. Es wird schon hell.</line>
+    <line>Noch immer reitet der Vater schnell.</line>
+    <line>Erreicht den Hof mit Müh und Not---</line>
+    <line>der Knabe lebt, das Pferd ist tot!</line>
+  </verse>
+</poem>

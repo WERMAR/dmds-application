@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IndividualSurvey xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           	xsi:noNamespaceSchemaLocation="IndividualSurvey.xsd">
+   <TotalPurchaseYTD>2435.4018</TotalPurchaseYTD>
+   <DateFirstPurchase>2001-10-27Z</DateFirstPurchase>
+   <BirthDate>1943-07-15Z</BirthDate>
+   <MaritalStatus>M</MaritalStatus>
+   <YearlyIncome>25001-50000</YearlyIncome>
+   <Gender>M</Gender>
+   <TotalChildren>1</TotalChildren>
+   <NumberChildrenAtHome>0</NumberChildrenAtHome>
+   <Education>Bachelors</Education>
+   <Occupation>Clerical</Occupation>
+   <HomeOwnerFlag>1</HomeOwnerFlag>
+   <NumberCarsOwned>0</NumberCarsOwned>
+   <CommuteDistance>0-1 Miles</CommuteDistance>
+</IndividualSurvey>
