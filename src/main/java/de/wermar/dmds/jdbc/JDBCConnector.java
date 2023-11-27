@@ -105,6 +105,16 @@ public class JDBCConnector {
         }
     }
 
+    public ResultSet executeQuery(final String SQL_QUERY) {
+        this.establishConnection();
+        try {
+            var statement = this.currConnection.createStatement();
+            return statement.executeQuery(SQL_QUERY);
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
     private void extractResult(ResultSet result, String fieldNames) throws SQLException {
         List<String> fieldNamesSplitted = new ArrayList<>();
         if (!"*".equals(fieldNames)) {
